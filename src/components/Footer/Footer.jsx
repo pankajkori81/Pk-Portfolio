@@ -33,7 +33,7 @@ const Footer = () => {
 
       <div className='foot-head'>
 
-      <img  src="/public/logo_transparent.png" alt="Profile photo" />
+      <img  src="/logo_transparent.png" alt="Profile photo" />
 
 
       </div>
