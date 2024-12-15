@@ -66,7 +66,7 @@ const Footer = () => {
     {/* <div class="tooltip">LinkedIn</div> */}
   </li>
   <li class="icon-content">
-    <a href="https://www.github.com/" aria-label="GitHub" data-social="github">
+    <a href="https://github.com/pankajkori81" aria-label="GitHub" data-social="github">
       <div class="filled"></div>
       <svg
         xmlns="http://www.w3.org/2000/svg"
