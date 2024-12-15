@@ -1,0 +1,25 @@
+
+*{
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+
+}
+
+
+body{
+  background-color: #080808;
+  background-image: linear-gradient(to right , #080808 , #121212 , #191919);
+  color: #fff5f5;
+}
+
+
+
+/* This is just to transition when you change the viewport size. */
+/* * {
+  transition: all 0.5s ease-out;
+ 
+} */
+
+
+
