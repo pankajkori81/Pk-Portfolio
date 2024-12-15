@@ -32,7 +32,7 @@ const Experince = () => {
         <div className='work'data-aos="zoom-in-up" >
             
             <div className='data-left' >
-            <img src="/public/nullclass.png" alt="NullClass" />
+            <img src="/nullclass.png" alt="NullClass" />
             <h3>NullClass</h3>
             <p>Remote</p>
             <p>India</p>
