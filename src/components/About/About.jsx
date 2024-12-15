@@ -30,7 +30,7 @@ const About = () => {
 
   
 
-        <img src="/public/Pankaj.jpeg" alt="Profile Photo" />
+        <img src="/Pankaj.jpeg" alt="Profile Photo" />
        
     
 
