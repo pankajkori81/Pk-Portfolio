@@ -54,7 +54,7 @@ const About = () => {
 
                 <h2>Frontend Developer</h2>
                  
-                <img src="/public/ui-design.png" alt="Frontend" />
+                <img src="/ui-design.png" alt="Frontend" />
                 <p>
                     I'm frontend delevepor with experience in building responsive and optimized websites 
                 </p>
@@ -63,7 +63,7 @@ const About = () => {
             <div className='subcard1'>
                 
                 <h2>Backend Developer</h2>
-                <img src="/public/backend.png" alt="Backend" />
+                <img src="/backend.png" alt="Backend" />
 
                 <p>I have experience developing fast and optimized backend systems and APIs</p>
 
@@ -72,7 +72,7 @@ const About = () => {
             <div className='subcard1'>
 
                   <h2>UI/UX Developer</h2>
-                <img src="/public/designer.png" alt="UI/UX" />
+                <img src="/designer.png" alt="UI/UX" />
                 <p>I have experience in designing landing pages</p>
 
             </div>
