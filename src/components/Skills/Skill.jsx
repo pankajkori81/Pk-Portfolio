@@ -38,7 +38,7 @@ const Skill = () => {
 
             <div className='skill-card' data-aos="zoom-in-right">
                 <h2>Programming Langauage</h2>
-                <div className='card-box' ><img src="/public/c-.png" alt="c/c++" />
+                <div className='card-box' ><img src="/c-.png" alt="c/c++" />
                
                 <div class="container">
                 <div class="skill-box">
@@ -55,7 +55,7 @@ const Skill = () => {
                 </div>
                 
                 <div className='card-box' >
-                  <img src="/public/java.png" alt="Java" />
+                  <img src="/java.png" alt="Java" />
                 <div class="container">
                 <div class="skill-box">
                  <span class="title">JAVA</span>
@@ -70,7 +70,7 @@ const Skill = () => {
                 </div>
                 
                 <div className='card-box' >
-                  <img src="/public/js.png" alt="Javascript" />
+                  <img src="/js.png" alt="Javascript" />
                  <div class="container">
                 <div class="skill-box">
                  <span class="title">JavaScript</span>
@@ -89,7 +89,7 @@ const Skill = () => {
             <div className='skill-card' data-aos="zoom-in-left">
                 <h2>Web Development</h2>
                 <div className='card-box' >
-                  <img src="/public/atom.png"alt="React" />
+                  <img src="/atom.png"alt="React" />
 
                 <div class="container">
                 <div class="skill-box">
@@ -106,7 +106,7 @@ const Skill = () => {
                 </div>
 
                 <div className='card-box' >
-                  <img src="/public/programing.png" alt="Node" />
+                  <img src="/programing.png" alt="Node" />
                 <div class="container">
                 <div class="skill-box">
                  <span class="title">NodeJs</span>
@@ -121,7 +121,7 @@ const Skill = () => {
                 </div>
 
                 <div className='card-box' >
-                  <img src="/public/database-management.png"alt="database" />
+                  <img src="/database-management.png"alt="database" />
                 <div class="container">
                 <div class="skill-box">
                  <span class="title">Mongodb / MySql</span>
