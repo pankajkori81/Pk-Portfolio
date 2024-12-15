@@ -26,7 +26,7 @@ const Navbar = () => {
           
           {/* <h2>Portfolio</h2> */}
 
-          <img src="/public/logo_transparent.png" alt="Profile photo" />
+          <img src="/logo_transparent.png" alt="Profile photo" />
       
 
          <ul className={openMenu ? "open" :""} >
