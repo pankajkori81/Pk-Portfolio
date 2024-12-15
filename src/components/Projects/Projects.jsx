@@ -37,7 +37,7 @@ const Projects = () => {
 
         <div className="project-cards">
           <div className="cards-box" data-aos="zoom-in-right">
-            <img src="/public/ecoms.png" alt="Ecommerce" />
+            <img src="/ecoms.png" alt="Ecommerce" />
             <h2>E-commerce</h2>
 
             <p>
@@ -61,7 +61,7 @@ const Projects = () => {
           </div>
 
           <div className="cards-box" data-aos="zoom-in-left" >
-            <img src="/public/Bookimg.png" alt="Book Inventory" />
+            <img src="/Bookimg.png" alt="Book Inventory" />
             <h2>Book Inventory System </h2>
 
             <p>
@@ -86,7 +86,7 @@ const Projects = () => {
           </div>
 
           <div className="cards-box" data-aos="zoom-in-right" >
-            <img src="/public/Food.png" alt="Food delivery" />
+            <img src="/Food.png" alt="Food delivery" />
             <h2> Indian Food Delivery </h2>
 
             <p>
@@ -110,7 +110,7 @@ const Projects = () => {
           </div>
 
           <div className="cards-box" data-aos="zoom-in-left" >
-            <img src="/public/citygeo.png" alt="Food delivery" />
+            <img src="/citygeo.png" alt="Food delivery" />
             <h2> AI-Driven Urban Planning </h2>
 
             <p>
