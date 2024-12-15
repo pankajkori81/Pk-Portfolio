@@ -117,7 +117,7 @@ const Header = () => {
         <div class="card" data-aos="fade-down-left">
      <div class="card2">
 
-     <img src="Pankaj.jpeg" alt="Profile Photo" />
+     <img src="/Pankaj.jpeg" alt="Profile Photo" />
      </div>
      </div>
 
