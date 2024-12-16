@@ -120,12 +120,14 @@
   }
   
   .update-box{
-      width: 280px;
+      width: 290px;
       display: flex;
       flex-wrap: wrap;
       justify-content: space-evenly;
       border: 1px solid #646464;
       margin: 32% 6%;
+      margin-top: 35%;
+      margin-left: 10%;
       padding: 30px ;
       border-radius: 10px;
       box-shadow: 4px 5px 40px #313131;
