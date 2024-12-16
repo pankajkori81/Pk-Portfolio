@@ -226,7 +226,7 @@ display: flex;
 text-align: center;
 font-size:25px;
 font-family: Arial, Helvetica, sans-serif;
-margin-left: 22%;
+margin-left: 26%;
 margin-top: 45rem;
 /* background: linear-gradient(to right,#159957, #002d5a); */
 padding: 5px;
@@ -258,7 +258,7 @@ background-clip: text;
   display: flex;
   justify-content: space-evenly;
   flex-wrap: wrap;
-  margin-top: 20%;
+  margin-top: 15%;
 
 }
 
@@ -268,8 +268,8 @@ background-clip: text;
   border: 1px solid #575757;
   box-shadow: 2px 2px 10px rgb(19, 19, 19);
  border-radius: 16px;
-  margin: 10px;
-  margin-top: 10px;
+  /* margin: 10px; */
+  margin-top: 5px;
   margin-left: 15px;
 }
 .skill-card h2{
