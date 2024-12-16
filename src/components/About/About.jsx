@@ -49,8 +49,8 @@ const About = () => {
          </p>
 
          <div className='card-part'>
-
-            <div className='subcard1'>
+ 
+            <div className='subcard1' data-aos="flip-left" >
 
                 <h2>Frontend Developer</h2>
                  
@@ -60,7 +60,7 @@ const About = () => {
                 </p>
 
             </div>
-            <div className='subcard1'>
+            <div className='subcard1' data-aos="flip-left" >
                 
                 <h2>Backend Developer</h2>
                 <img src="/backend.png" alt="Backend" />
@@ -69,7 +69,7 @@ const About = () => {
 
             </div>
 
-            <div className='subcard1'>
+            <div className='subcard1' data-aos="flip-left" >
 
                   <h2>UI/UX Developer</h2>
                 <img src="/designer.png" alt="UI/UX" />
