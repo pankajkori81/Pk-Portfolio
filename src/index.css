@@ -7,7 +7,9 @@
 }
 
 
-body{
+ html,body{
+  width: 100%;
+  overflow-x: hidden;
   background-color: #080808;
   background-image: linear-gradient(to right , #080808 , #121212 , #191919);
   color: #fff5f5;
