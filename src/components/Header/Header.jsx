@@ -149,7 +149,7 @@ const Header = () => {
          </div>
 
            <div className='datas'>
-            <h1>400+</h1>
+            <h1>520+</h1>
            <p>code commits</p>
 
           </div>
