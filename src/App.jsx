@@ -9,6 +9,8 @@ import Footer from './components/Footer/Footer'
 import Contact from './components/Contact/Contact'
 import Loading from './components/Loading/Loading'
 import Experince from './components/Experince/Experince'
+import Education from './components/Education/Education'
+
 
 
 const App = () => {
@@ -54,6 +56,10 @@ const App = () => {
    {/* Work experince  */}
 
    <Experince/>
+
+         {/* education */}
+
+   <Education/>
    
       {/* Newsletter   */}
       <Newsletter/>
