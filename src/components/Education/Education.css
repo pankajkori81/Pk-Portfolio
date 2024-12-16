@@ -1,0 +1,129 @@
+
+
+
+.education{
+    margin-top: 15%;
+}
+
+
+
+.education h1{
+
+    text-align: center;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 42%;
+    margin-top: 1%;
+    padding: 5px;
+    width: 300px;
+    border-radius: 9px;
+    box-shadow: 4px 5px 5px  #002d5ac5;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    background: linear-gradient( to right , #fc2eff , #7c58ff , #3e75ff  );
+
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+
+.edu-data{
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: rgb(14, 14, 14);
+    background: linear-gradient(to right , #141414 , #212121);
+    border: 1px solid #dddddd57;
+    box-shadow: 5px 5px 30px #242222;
+    border-radius: 10px;
+    margin: 8% 20%;
+    padding: 25px;
+
+}
+
+
+
+.sub-datas img{
+    width: 100px;
+}
+
+
+.sub-datas p{
+    font-size: 22px ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 700;
+    margin-top: 25px;
+}
+
+
+/* media query */
+
+
+@media screen and (max-width:480px) {
+
+
+
+    .education{
+        margin-top: 35%;
+    }
+    
+    
+    
+    .education h1{
+    
+        text-align: center;
+        font-size: 25px;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-left: 19%;
+        margin-top: 5%;
+        padding: 5px;
+        width: 200px;
+        border-radius: 9px;
+        box-shadow: 4px 5px 5px  #002d5ac5;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 800;
+        background: linear-gradient( to right , #fc2eff , #7c58ff , #3e75ff  );
+    
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+    
+    
+    .edu-data{
+        width: 290px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        margin: 55px 15px 15px 15px;
+        margin-top: 45px;
+        margin-left: 15px;
+        background-color: rgb(14, 14, 14);
+        background: linear-gradient(to right , #141414 , #212121);
+        border: 1px solid #dddddd57;
+        box-shadow: 5px 5px 30px #242222;
+        border-radius: 10px;
+    
+    }
+    
+    
+    
+    .sub-datas img{
+        width: 95px;
+    }
+    
+    
+    .sub-datas p{
+        font-size: 20px ;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-weight: 700;
+        margin-top: 20px;
+    }
+    
+        
+
+
+
+}
