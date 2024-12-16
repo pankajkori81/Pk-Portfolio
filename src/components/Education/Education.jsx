@@ -26,7 +26,7 @@ const Education = () => {
 
         <div className="edu-data" data-aos="zoom-in-up" >
           <div className="sub-datas">
-            <img src="/atom.png" alt="Education" />
+            <img src="/school.png" alt="Education" />
           </div>
 
           <div className="sub-datas">
@@ -43,11 +43,11 @@ const Education = () => {
 
         <div className="edu-data" data-aos="zoom-in-up" >
           <div className="sub-datas">
-            <img src="/atom.png" alt="Education" />
+            <img src="/school.png" alt="Education" />
           </div>
 
           <div className="sub-datas">
-            <p>Kirti College.  </p>
+            <p>Kirti College. Dadar-Mumbai  </p>
             <p>Senior Secondary Education</p>
 
           </div>
